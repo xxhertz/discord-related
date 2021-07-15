@@ -42,7 +42,8 @@
 .footer-3UKYOU,
 .root-1gCeng,
 .body-r6_QPy,
-.topSection-y3p-_D {
+.topSection-y3p-_D,
+.uploadModal-2ifh8j {
 	background: var(--background-primary) !important;
 	border-radius: 0 !important;
 }
@@ -50,4 +51,8 @@
 .item-1tOPte:hover,
 .item-1tOPte:active {
 	background: #a0a0a0 !important;
+}
+
+.placeholder-37qJjk {
+	color: transparent !important;
 }
